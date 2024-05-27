@@ -1,16 +1,12 @@
 # xylophone_flutter
 
 A new Flutter project.
+Made A Xylophone App that simulates about the flutter package so i used a flutter package called audio asset from flutter package 
+and by implementing it i made an app that plays 7 notes.
 
-## Getting Started
+Here is the demo video of that App :)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Aspharier/xylophone_flutter/assets/113495930/8156cbf0-fa93-4cc5-812d-7cccb484e687
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
